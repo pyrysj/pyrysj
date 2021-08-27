@@ -1,6 +1,6 @@
 # Hi
 
-I am Pyry (formerly Rasmus), I am a first year student at the University of Helsinki, studying mathemathics. I want to pursue a career in machine learning. 
+I am Pyry (formerly Rasmus), I am a first year student at the University of Helsinki, studying mathemathics. 
 
 - 👋 Hi, I’m @pyrysj
 - 👀 I’m interested in machine learning, fun small coding projects
