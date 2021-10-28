@@ -1,12 +1,6 @@
 # Hi
 
-I am Pyry (formerly Rasmus), I am a first year student at the University of Helsinki, studying mathemathics. 
-
-- 👋 Hi, I’m @pyrysj
-- 👀 I’m interested in machine learning, fun small coding projects
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I am Pyry (formerly Rasmus), I am a first year student at the University of Helsinki, studying mathemathics. I mostly code in Python and Javascript, but I hope to further my coding horizons with languages such as C or C++ eventually. 
 
 <!---
 pyrysj/pyrysj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
